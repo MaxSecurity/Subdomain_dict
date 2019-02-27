@@ -1,2 +1,2 @@
-# Child-domain-dictionary
-Child domain dictionary
+subdomain_dict
+收集了绝大部分网站子域欢迎大家补充！
